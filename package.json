@@ -1,0 +1,40 @@
+{
+  "name": "shinobi",
+  "productName": "Shinobi Installer",
+  "version": "3.0.2",
+  "description": "The Free Open Source CCTV platform written in Node.JS, Security Surveillance Software. This is the Installer script for downloading and installing Shinobi CCTV on Linux or MacOS. ",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "sh shinobi-install.sh"
+  },
+  "keywords": [
+      "video management system",
+      "closed-circuit television",
+      "network video recorder",
+      "camera recorder",
+      "streamer",
+      "security",
+      "surveillance",
+      "restreamer",
+      "vms",
+      "shinobice",
+      "shinobipro",
+      "shinobicctv",
+      "nvrninja",
+      "ninja",
+      "cctv",
+      "nvr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Shinobi-Systems/Shinobi-Installer.git"
+  },
+  "author": "Moe Alam, Shinobi Systems",
+  "bugs": {
+    "url": "https://gitlab.com/Shinobi-Systems/Shinobi-Installer/issues"
+  },
+  "homepage": "https://gitlab.com/Shinobi-Systems/Shinobi-Installer#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
